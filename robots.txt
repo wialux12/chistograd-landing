@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wialux12.github.io/chistograd-landing/sitemap.xml
